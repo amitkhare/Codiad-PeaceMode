@@ -1,4 +1,4 @@
-# Peace Mode : A Codiad Plugin
+# Peace Mode : A Codiad IDE Plugin (Codiad.com)
 
 This is a Simple plugin which adds a functionality of Distraction Free Full Screen Mode.
 
