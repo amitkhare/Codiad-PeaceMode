@@ -26,10 +26,6 @@ Opera 12.1+
 
 Firefox for Android 18+
 
-These browsers are also supported for video only:
-
-Safari 5.0
-
 iOS 4.2+
 
 Android Browser 2.1+
