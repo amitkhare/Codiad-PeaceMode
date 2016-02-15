@@ -5,6 +5,11 @@ This is a Simple plugin which adds a functionality of Distraction Free Full Scre
 Plugin I used is called BigScreen : https://brad.is/coding/BigScreen/
 
 
+# Installation
+
+Download the zip file and extract it to your plugins folder
+
+
 # How To Use:
 
 1. Open RightSideBar of Codiad IDE (http://Codiad.com)
