@@ -1,0 +1,1 @@
+<p>TODO: Build an UI to config some settings like auto Peace mode default etc... <a href="http://inkimagine.com?ref=codiad.peaceMode" style="color:#fff;" target="_BLANK" alt="Visit InkImagine">InkImagine</a></p><p>Library Used: <a href="https://brad.is/coding/BigScreen/" target="_BLANK" style="color:#eee">BigScreen</a>, Don't know if its leagal or not but I used it anyway.</p>
