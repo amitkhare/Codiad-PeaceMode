@@ -35,3 +35,10 @@ iOS 4.2+
 Android Browser 2.1+
 
 Chrome for Android
+
+
+# Amit Kumar Khare
+
+http://inkimagine.com
+
+http://khare.co.in
