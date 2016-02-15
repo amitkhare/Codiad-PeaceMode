@@ -1,7 +1,7 @@
 [ { "author" : "Amit Kumar Khare",
     "version": "1.0",
     "name" : "Peace Mode",
-    "url" : "https://github.com/amitkhare/Codiad-Peace-Mode",
+    "url" : "https://github.com/amitkhare/Codiad-PeaceMode.git",
     "rightbar" : [{
         "action" : "codiad.peaceMode.toggle();",
         "icon" : "icon-monitor",
