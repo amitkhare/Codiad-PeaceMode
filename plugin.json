@@ -1,15 +1,15 @@
 [ { "author" : "Amit Kumar Khare",
     "version": "1.0",
-    "name" : "Peace Mode",
+    "name" : "FullScreen Mode",
     "url" : "https://github.com/amitkhare/Codiad-PeaceMode.git",
     "rightbar" : [{
         "action" : "codiad.peaceMode.toggle();",
         "icon" : "icon-monitor",
-        "title" : "Peace Mode"
+        "title" : "FullScreen Mode"
         }],
     "config": [{
 		"file": "ui.php",
 		"icon": "icon-monitor",
-		"title": "Peace Mode"
+		"title": "FullScreen Mode"
 	}]
   } ]
